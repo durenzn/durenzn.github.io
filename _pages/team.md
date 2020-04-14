@@ -12,7 +12,7 @@ permalink: /team/
 
 ## PI
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.team_PI %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
