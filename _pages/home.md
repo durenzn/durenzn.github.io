@@ -64,5 +64,5 @@ To this end, we develop novel computational tools for integrative analysis of ge
 We are part of the <a href="http://www.clemson.edu/">Clemson University </a> <a href="https://scienceweb.clemson.edu/chg/"> Center for Human Genetics</a>, which is located in Self Regional Hall, a state-of-the-art research and educational facility located in Greenwood, South Carolina.
     
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are looking for new Postdocs, graduate students, and ungraduatest udents to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
