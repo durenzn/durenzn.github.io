@@ -59,7 +59,7 @@ We are a computational biology research group at the [Clemson University Center 
 
 
 
-To this end, we develop novel computational tools to analyze functional genomics data to infer gene regulatory networks, to detect heterogeneity, and to annotate the regulatory function of genetic variants by context specific manner. (see [Research](research)).
+To this end, we develop novel computational tools for integrative analysis of genomics data to infer gene regulatory networks, to detect heterogeneity, and to annotate the regulatory function of genetic variants by context specific manner. (see [Research](research)).
 
 We are part of the <a href="http://www.clemson.edu/">Clemson University </a> <a href="https://scienceweb.clemson.edu/chg/"> Center for Human Genetics</a>, which is located in Self Regional Hall, a state-of-the-art research and educational facility located in Greenwood, South Carolina.
     
