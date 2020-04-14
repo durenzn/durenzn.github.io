@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a computational biology research group at the [Clemson University Center for Human Genetics](https://scienceweb.clemson.edu/chg/). Our aim is to explore and understand the regulatory mechanisms of non-coding DNA.
+We are a computational biology research group at the [Clemson University Center for Human Genetics](https://scienceweb.clemson.edu/chg/). Our aim is to explore and understand the regulatory mechanisms of non-coding DNA.The long-term research goal is to answer the key scientific question” How non-coding genetic variant act through context specific gene regulatory network to influence phenotype”. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -59,7 +59,7 @@ We are a computational biology research group at the [Clemson University Center 
 
 
 
-To this end, we develop novel computational tools to analyze the functional genomics data. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+To this end, we develop novel computational tools to analyze functional genomics data to infer gene regulatory networks, to detect heterogeneity, and to annotate the regulatory function of genetic variants by context specific manner. (see [Research](research)).
 
 We are part of the <a href="http://www.clemson.edu/">Clemson University </a> <a href="https://scienceweb.clemson.edu/chg/"> Center for Human Genetics</a>, which is located in Self Regional Hall, a state-of-the-art research and educational facility located in Greenwood, South Carolina.
     
