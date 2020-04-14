@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a computational biology research group at the [Clemson University center of human genetics](https://scienceweb.clemson.edu/chg/). Our aim is to explore and understand the regulatory mechanisms of non-coding DNA.
+We are a computational biology research group at the [Clemson University Center for Human Genetics](https://scienceweb.clemson.edu/chg/). Our aim is to explore and understand the regulatory mechanisms of non-coding DNA.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
