@@ -61,7 +61,8 @@ We are a computational biology research group at the [Clemson University Center 
 
 To this end, we develop novel computational tools to analyze the functional genomics data. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
 
-We are part of the Clemson University Center for Human Genetics, which is located in Self Regional Hall, a state-of-the-art research and educational facility located in Greenwood, South Carolina.
+We are part of the <a href="http://www.clemson.edu/">Clemson University </a> <a href="https://scienceweb.clemson.edu/chg/"> Center for Human Genetics</a>, which is located in Self Regional Hall, a state-of-the-art research and educational facility located in Greenwood, South Carolina.
+    
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
