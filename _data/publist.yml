@@ -9,7 +9,7 @@
   news2:
  
 - title: "Integrated functional genomic analyses of Klinefelter and Turner syndromes reveal global network effects of altered X chromosome dosage"
-  image: TBG_ARPES.png
+  image: 
   description: 
   authors: Xianglong Zhang, David Hong, Shining Ma, Thomas Ward, Marcus Ho, Reenal Pattni, Zhana Duren, Atanas Stankov, Sharon Bade Shrestha, Joachim Hallmayer, Wing Hung Wong, Allan L Reiss, Alexander E Urban
   link:
@@ -19,7 +19,7 @@
   news2:
 
 - title: "Modeling regulatory network topology improves genome-wide analyses of complex human traits"
-  image: TBG_ARPES.png
+  image: 
   description: 
   authors: Xiang Zhu, Zhana Duren, Wing Hung Wong
   link:
@@ -35,5 +35,52 @@
   link:
     url: https://www.nature.com/articles/s41467-019-12547-1
     display:  Nature Communications 2019
+  highlight: 1
+  news2:
+  
+- title: "Hierarchical graphical model reveals HFR1 bridging circadian rhythm and flower development in Arabidopsis thaliana"
+  image: 
+  description: 
+  authors: Zhana Duren, Yaling Wang, Jiguang Wang, Xing-Ming Zhao, Le Lv, Xiaobo Li, Jingdong Liu, Xin-Guang Zhu, Luonan Chen, Yong Wang
+  link:
+    url: https://www.nature.com/articles/s41540-019-0106-3
+    display:  NPJ systems biology and applications 2019
+  highlight: 0
+  news2:
+  
+- title: "TFAP2C-and p63-dependent networks sequentially rearrange chromatin landscapes to drive human epidermal lineage commitment"
+  image: 
+  description: 
+  authors: Lingjie Li, Yong Wang, Jessica L Torkelson, Gautam Shankar, Jillian M Pattison, Hanson H Zhen, Fengqin Fang, Zhana Duren, Jingxue Xin, Sadhana Gaddam, Sandra P Melo, Samantha N Piekos, Jiang Li, Eric J Liaw, Lang Chen, Rui Li, Marius Wernig, Wing H Wong, Howard Y Chang, Anthony E Oro
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1934590918306027
+    display:  Cell Stem Cell 2019
+  highlight: 0
+  news2:
+
+- title: "Integrative analysis of single-cell genomics data by coupled nonnegative matrix factorizations"
+  image: TBG_ARPES.png
+  description: The first integrative analysis method of single-cell RNA-seq with scATAC-seq data.
+  authors: Zhana Duren, Xi Chen, Mahdi Zamanighomi, Wanwen Zeng, Ansuman T. Satpathy, Howard Y. Chang, Yong Wang, Wing Hung Wong
+    url: https://www.pnas.org/content/115/30/7723.short
+    display:  PNAS 2018
+  highlight: 1
+  news2:
+  
+- title: "Unsupervised clustering and epigenetic classification of single cells"
+  image: 
+  description: 
+  authors: Mahdi Zamanighomi, Zhixiang Lin, Timothy Daley, Xi Chen, Zhana Duren, Alicia Schep, William J Greenleaf, Wing Hung Wong
+    url: https://www.nature.com/articles/s41467-018-04629-3
+    display:  Nature communications 2018
+  highlight: 0
+  news2:
+  
+- title: "Modeling gene regulation from paired expression and chromatin accessibility data"
+  image: TBG_ARPES.png
+  description: A computational mechanistic model for gene regulatory network from paired gene expression and chroamtin accessibility data.
+  authors: Zhana Duren, Xi Chen, Rui Jiang, Yong Wang, Wing Hung Wong
+    url: https://www.pnas.org/content/114/25/E4914.short
+    display:  PNAS 2017
   highlight: 1
   news2:
