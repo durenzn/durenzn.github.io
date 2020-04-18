@@ -62,7 +62,7 @@
   image: TBG_ARPES.png
   description: The first integrative analysis method of single-cell RNA-seq with scATAC-seq data.
   authors: Zhana Duren, Xi Chen, Mahdi Zamanighomi, Wanwen Zeng, Ansuman T. Satpathy, Howard Y. Chang, Yong Wang, Wing Hung Wong
-    url: https://www.pnas.org/content/115/30/7723.short
+    url: https://www.sciencedirect.com/science/article/pii/S1934590918306027
     display: PNAS 2018
   highlight: 1
   news2:
