@@ -8,12 +8,32 @@
   highlight: 1
   news2:
  
-- title: "Direct evidence for flat bands in twisted bilayer graphene from nano-ARPES"
+- title: "Integrated functional genomic analyses of Klinefelter and Turner syndromes reveal global network effects of altered X chromosome dosage"
   image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: S Lisi*, X Lu*, T Benschop*, TA de Jong*, Petr S, JR Duran, F Margot, I Cucchi, E Cappelli, A Hunter, A Tamai, V Kandyba, A Giampietri, A Barinov, J Jobst, V Stalman, M Leeuwenhoek, K Watanabe, T Taniguchi, L Rademaker, SJ van der Molen, MP Allan, DK Efetov, F Baumberger
+  description: 
+  authors: Xianglong Zhang, David Hong, Shining Ma, Thomas Ward, Marcus Ho, Reenal Pattni, Zhana Duren, Atanas Stankov, Sharon Bade Shrestha, Joachim Hallmayer, Wing Hung Wong, Allan L Reiss, Alexander E Urban
   link:
-    url: https://arxiv.org/abs/2002.02289
-    display:  arXiv:2002.02289
+    url: https://www.pnas.org/content/117/9/4864.short
+    display:  PNAS 2020
+  highlight: 0
+  news2:
+
+- title: "Modeling regulatory network topology improves genome-wide analyses of complex human traits"
+  image: TBG_ARPES.png
+  description: 
+  authors: Xiang Zhu, Zhana Duren, Wing Hung Wong
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2020.03.13.990010v1.abstract
+    display:  bioRxiv 2020
+  highlight: 0
+  news2:
+  
+- title: "DC3 is a method for deconvolution and coupled clustering from bulk and single-cell genomics data"
+  image: TBG_ARPES.png
+  description: The first joint analysis method of bulk 3D chromatin interaction data with single-cell gene expression and chromatin accessibility from the same heterogeneous cell population. 
+  authors: Wanwen Zeng, Xi Chen, Zhana Duren, Yong Wang, Rui Jiang, Wing Hung Wong
+  link:
+    url: https://www.nature.com/articles/s41467-019-12547-1
+    display:  Nature Communications 2019
   highlight: 1
   news2:
