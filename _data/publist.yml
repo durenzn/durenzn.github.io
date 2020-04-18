@@ -44,7 +44,7 @@
   authors: Zhana Duren, Yaling Wang, Jiguang Wang, Xing-Ming Zhao, Le Lv, Xiaobo Li, Jingdong Liu, Xin-Guang Zhu, Luonan Chen, Yong Wang
   link:
     url: https://www.nature.com/articles/s41540-019-0106-3
-    display:  NPJ systems biology and applications 2019
+    display: NPJ systems biology and applications 2019
   highlight: 0
   news2:
   
@@ -54,7 +54,7 @@
   authors: Lingjie Li, Yong Wang, Jessica L Torkelson, Gautam Shankar, Jillian M Pattison, Hanson H Zhen, Fengqin Fang, Zhana Duren, Jingxue Xin, Sadhana Gaddam, Sandra P Melo, Samantha N Piekos, Jiang Li, Eric J Liaw, Lang Chen, Rui Li, Marius Wernig, Wing H Wong, Howard Y Chang, Anthony E Oro
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1934590918306027
-    display:  Cell Stem Cell 2019
+    display: Cell Stem Cell 2019
   highlight: 0
   news2:
 
@@ -63,7 +63,7 @@
   description: The first integrative analysis method of single-cell RNA-seq with scATAC-seq data.
   authors: Zhana Duren, Xi Chen, Mahdi Zamanighomi, Wanwen Zeng, Ansuman T. Satpathy, Howard Y. Chang, Yong Wang, Wing Hung Wong
     url: https://www.pnas.org/content/115/30/7723.short
-    display:  PNAS 2018
+    display: PNAS 2018
   highlight: 1
   news2:
   
@@ -72,7 +72,7 @@
   description: 
   authors: Mahdi Zamanighomi, Zhixiang Lin, Timothy Daley, Xi Chen, Zhana Duren, Alicia Schep, William J Greenleaf, Wing Hung Wong
     url: https://www.nature.com/articles/s41467-018-04629-3
-    display:  Nature communications 2018
+    display: Nature communications 2018
   highlight: 0
   news2:
   
@@ -81,6 +81,6 @@
   description: A computational mechanistic model for gene regulatory network from paired gene expression and chroamtin accessibility data.
   authors: Zhana Duren, Xi Chen, Rui Jiang, Yong Wang, Wing Hung Wong
     url: https://www.pnas.org/content/114/25/E4914.short
-    display:  PNAS 2017
+    display: PNAS 2017
   highlight: 1
   news2:
