@@ -72,16 +72,18 @@
   image: 
   description: 
   authors: Mahdi Zamanighomi, Zhixiang Lin, Timothy Daley, Xi Chen, Zhana Duren, Alicia Schep, William J Greenleaf, Wing Hung Wong
+  link:
     url: https://www.nature.com/articles/s41467-018-04629-3
-    display: Nature communications 2018
+    display:  Nature communications 2018
   highlight: 0
   news2:
-  
+
 - title: "Modeling gene regulation from paired expression and chromatin accessibility data"
   image: TBG_ARPES.png
   description: A computational mechanistic model for gene regulatory network from paired gene expression and chroamtin accessibility data.
   authors: Zhana Duren, Xi Chen, Rui Jiang, Yong Wang, Wing Hung Wong
+  link:
     url: https://www.pnas.org/content/114/25/E4914.short
-    display: PNAS 2017
+    display:  PNAS 2017
   highlight: 1
   news2:
