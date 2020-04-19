@@ -87,3 +87,23 @@
     display:  PNAS 2017
   highlight: 1
   news2:
+
+- title: "A systematic method to identify modulation of transcriptional regulation via chromatin activity reveals regulatory network during mESC differentiation"
+  image: 
+  description: 
+  authors: Zhana Duren, Yong Wang
+  link:
+    url: https://www.nature.com/articles/srep22656
+    display:  Scientific reports 2016
+  highlight: 0
+  news2:
+
+- title: "A community effort to assess and improve drug sensitivity prediction algorithms"
+  image: 
+  description: 
+  authors: James C Costello, Laura M Heiser, Elisabeth Georgii et. al
+  link:
+    url: https://www.nature.com/articles/nbt.2877
+    display:  Nature biotechnology 2014
+  highlight: 0
+  news2:
