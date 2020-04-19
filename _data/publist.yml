@@ -60,20 +60,11 @@
 
 - title: "Integrative analysis of single-cell genomics data by coupled nonnegative matrix factorizations"
   image: TBG_ARPES.png
-  description: The first joint analysis method of bulk 3D chromatin interaction data with single-cell gene expression and chromatin accessibility from the same heterogeneous cell population. 
-  authors: Wanwen Zeng, Xi Chen, Zhana Duren, Yong Wang, Rui Jiang, Wing Hung Wong
-  link:
-    url: https://www.nature.com/articles/s41467-019-12547-1
-    display:  Nature Communications 2019
-  highlight: 1
-  news2:
-  
-- title: "Integrative analysis of single-cell genomics data by coupled nonnegative matrix factorizations"
-  image: TBG_ARPES.png
   description: The first integrative analysis method of single-cell RNA-seq with scATAC-seq data.
   authors: Zhana Duren, Xi Chen, Mahdi Zamanighomi, Wanwen Zeng, Ansuman T. Satpathy, Howard Y. Chang, Yong Wang, Wing Hung Wong
+  link:
     url: https://www.pnas.org/content/115/30/7723.short
-    display: PNAS 2018
+    display:  PNAS 2018
   highlight: 1
   news2:
   
