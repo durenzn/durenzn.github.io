@@ -107,3 +107,43 @@
     display:  Nature biotechnology 2014
   highlight: 0
   news2:
+
+- title: "Sparse hyperspectral unmixing using an approximate L0 norm"
+  image: 
+  description: 
+  authors: Wei Tang, Zhenwei Shi, Zhana Duren
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0030402613009455
+    display:  Optik 2014
+  highlight: 0
+  news2:
+
+- title: "Subspace matching pursuit for sparse unmixing of hyperspectral data"
+  image: 
+  description: 
+  authors: Zhenwei Shi, Wei Tang, Zhana Duren, Zhiguo Jiang
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/6568877/
+    display:  IEEE Transactions on Geoscience and Remote Sensing 2013
+  highlight: 0
+  news2:
+
+- title: "Inferring gene regulatory network for cell reprogramming"
+  image: 
+  description: 
+  authors: Duren Zhana, Wang Yong, Saito Shigeru, Horimoto Katsuhisa
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/6391257/
+    display:  Control Conference (CCC), 2012 31st Chinese
+  highlight: 0
+  news2:
+  
+- title: "Clinical data analysis reveals three subytpes of gastric cancer"
+  image: 
+  description: 
+  authors: Xinxin Wang, Zhana Duren, Chao Zhang, Lin Chen, Yong Wang
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/6314156/
+    display:  2012 IEEE 6th International Conference on Systems Biology (ISB)
+  highlight: 0
+  news2:
