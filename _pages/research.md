@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-A person’s genome typically contains millions of variants which represent the differences between this personal genome and the reference human genome. It is challenging to understand the mechanism of how these genetic variants contribute to disease because over 90% of trait-associated genetic variants are located in non-coding regions which don’t encode any protein-coding genes but may have regulatory functions.  Our long-term goal is to answer the key scientific question” How non-coding genetic variant act through cellular context specific gene regulatory network to influence phenotype”. 
+A person’s genome typically contains millions of variants which represent the differences between this personal genome and the reference human genome. It is challenging to understand the mechanism of how these genetic variants contribute to disease because over 90% of trait-associated genetic variants are located in non-coding regions which don’t encode any protein-coding genes but may have regulatory functions.  Our long-term goal is to answer the key scientific question ”How non-coding genetic variant act through cellular context specific gene regulatory network to influence phenotype”. 
  
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
 
