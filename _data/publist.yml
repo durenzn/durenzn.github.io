@@ -3,7 +3,7 @@
   description: We develop a computational tool named TimeReg, which can be used to prioritize regulatory elements, to extract core regulatory modules at each time point, to identify key regulators driving changes of the cellular state, and to causally connect the modules across different time points.
   authors: Zhana Duren, Xi Chen, Jingxue Xin, Yong Wang, Wing Hung Wong
   link:
-    url: https://genome.cshlp.org/content/early/2020/03/18/gr.257063.119.short
+    url: https://genome.cshlp.org/content/30/4/622.abstract
     display:  Genome Research 2020
   highlight: 1
   news2:
