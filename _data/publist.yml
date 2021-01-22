@@ -59,7 +59,7 @@
   news2:
   
 - title: "DC3 is a method for deconvolution and coupled clustering from bulk and single-cell genomics data"
-  image: TBG_ARPES.png
+  image: DC3.png
   description: The first joint analysis method of bulk 3D chromatin interaction data with single-cell gene expression and chromatin accessibility from the same heterogeneous cell population. 
   authors: Wanwen Zeng, Xi Chen, Zhana Duren, Yong Wang, Rui Jiang, Wing Hung Wong
   link:
