@@ -1,3 +1,13 @@
+- title: "GuidingNet: revealing transcriptional cofactor and predicting binding for DNA methyltransferase by network regularization"
+  image: 
+  description: 
+  link: 
+    url: https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa245/5921982
+    display:  Briefings in Bioinformatics 2020
+  highlight: 0
+  news2:
+
+
 - title: "A method for scoring the cell type-specific impacts of noncoding variants in personal genomes"
   image: OpenCausal.png
   description: Here we use the expression and accessibility data from a diverse set of cell types to learn a model for the dependence of the accessibility of a regulatory element on its DNA sequence and TF expression. Using GTEx samples with WGS data, we show that the noncoding variants predicted to affect accessibility are more strongly associated with the expression of nearby genes. To interpret a personal genome, we combine the sequence information with context-specific TF expression to prioritize variants and regulatory elements in any genomic region of interest. This approach should be helpful in the study of risk loci previously identified by GWAS. Results from analysis of height and WGS data from the GTEx project support this hypothesis.
