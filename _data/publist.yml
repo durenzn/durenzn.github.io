@@ -10,7 +10,7 @@
 
 - title: "A method for scoring the cell type-specific impacts of noncoding variants in personal genomes"
   image: OpenCausal.png
-  description: Here we use the expression and accessibility data from a diverse set of cell types to learn a model for the dependence of the accessibility of a regulatory element on its DNA sequence and TF expression. Using GTEx samples with WGS data, we show that the noncoding variants predicted to affect accessibility are more strongly associated with the expression of nearby genes. To interpret a personal genome, we combine the sequence information with context-specific TF expression to prioritize variants and regulatory elements in any genomic region of interest. This approach should be helpful in the study of risk loci previously identified by GWAS. Results from analysis of height and WGS data from the GTEx project support this hypothesis.
+  description: Here we use the expression and accessibility data from a diverse set of cell types to learn a model for the dependence of the accessibility of a regulatory element on its DNA sequence and TF expression. To interpret a personal genome, we combine the sequence information with context-specific TF expression to prioritize variants and regulatory elements in any genomic region of interest. This approach should be helpful in the study of risk loci previously identified by GWAS. 
   authors: Wenran Li, Zhana Duren, Rui Jiang, Wing Hung Wong
   link:
     url: https://www.pnas.org/content/117/35/21364.short
@@ -60,7 +60,7 @@
   
 - title: "DC3 is a method for deconvolution and coupled clustering from bulk and single-cell genomics data"
   image: DC3.PNG
-  description: The first joint analysis method of bulk 3D chromatin interaction data with single-cell gene expression and chromatin accessibility from the same heterogeneous cell population. 
+  description: The first joint analysis method of bulk 3D chromatin interaction data with single-cell gene expression and chromatin accessibility from the same heterogeneous cell population. In this work, we introduce DC3 (De-Convolution and Coupled-Clustering) as a method for the joint analysis of various bulk and single-cell data such as HiChIP, RNA-seq and ATAC-seq from the same heterogeneous cell population. DC3 can simultaneously identify distinct subpopulations, assign single cells to the subpopulations (i.e., clustering) and de-convolve the bulk data into subpopulation-specific data. 
   authors: Wanwen Zeng, Xi Chen, Zhana Duren, Yong Wang, Rui Jiang, Wing Hung Wong
   link:
     url: https://www.nature.com/articles/s41467-019-12547-1
@@ -110,7 +110,7 @@
 
 - title: "Modeling gene regulation from paired expression and chromatin accessibility data"
   image: PECA_overview.png
-  description: A computational mechanistic model for gene regulatory network from paired gene expression and chroamtin accessibility data.
+  description: PECA: A computational mechanistic model for gene regulatory network from paired gene expression and chroamtin accessibility data. Chromatin plays a critical role in the regulation of gene expression. Interactions among chromatin regulators, sequence-specific transcription factors, and cis-regulatory sequence elements are the main driving forces shaping context-specific chromatin structure and gene expression. The purpose of the present work is to show that, by modeling matched expression and accessibility data across diverse cellular contexts, it is possible to recover a significant portion of the information in the missing data on binding locations and chromatin states and to achieve accurate inference of gene regulatory relations.
   authors: Zhana Duren, Xi Chen, Rui Jiang, Yong Wang, Wing Hung Wong
   link:
     url: https://www.pnas.org/content/114/25/E4914.short
