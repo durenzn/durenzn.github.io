@@ -1,5 +1,5 @@
 - title: "Time course regulatory analysis based on paired expression and chromatin accessibility data"
-  image: TBG_ARPES.png
+  image: TimeReg.png
   description: We develop a computational tool named TimeReg, which can be used to prioritize regulatory elements, to extract core regulatory modules at each time point, to identify key regulators driving changes of the cellular state, and to causally connect the modules across different time points.
   authors: Zhana Duren, Xi Chen, Jingxue Xin, Yong Wang, Wing Hung Wong
   link:
@@ -59,7 +59,7 @@
   news2:
 
 - title: "Integrative analysis of single-cell genomics data by coupled nonnegative matrix factorizations"
-  image: TBG_ARPES.png
+  image: CoupledNMF.png
   description: The first integrative analysis method of single-cell RNA-seq with scATAC-seq data.
   authors: Zhana Duren, Xi Chen, Mahdi Zamanighomi, Wanwen Zeng, Ansuman T. Satpathy, Howard Y. Chang, Yong Wang, Wing Hung Wong
   link:
@@ -79,7 +79,7 @@
   news2:
 
 - title: "Modeling gene regulation from paired expression and chromatin accessibility data"
-  image: TBG_ARPES.png
+  image: PECA_overview.png
   description: A computational mechanistic model for gene regulatory network from paired gene expression and chroamtin accessibility data.
   authors: Zhana Duren, Xi Chen, Rui Jiang, Yong Wang, Wing Hung Wong
   link:
