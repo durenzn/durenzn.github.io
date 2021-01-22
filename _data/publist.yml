@@ -1,9 +1,10 @@
 - title: "GuidingNet: revealing transcriptional cofactor and predicting binding for DNA methyltransferase by network regularization"
   image: 
   description: 
+  authors: Lixin Ren, Caixia Gao, Zhana Duren, Yong Wang
   link: 
-    url: https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa245/5921982
-    display:  Briefings in Bioinformatics 2020
+  url: https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa245/5921982
+  display:  Briefings in Bioinformatics 2020
   highlight: 0
   news2:
 
