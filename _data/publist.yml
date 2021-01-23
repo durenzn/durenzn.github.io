@@ -91,7 +91,7 @@
 
 - title: "Integrative analysis of single-cell genomics data by coupled nonnegative matrix factorizations"
   image: CoupledNMF.png
-  description: The first integrative analysis method of single-cell RNA-seq with scATAC-seq data.
+  description: Biological samples are often heterogeneous mixtures of different types of cells. Suppose we have two single-cell datasets, each providing information on a different cellular feature and generated on a different sample from this mixture. Then, the clustering of cells in the two samples should be coupled as both clusterings are reflecting the underlying cell types in the same mixture. This “coupled clustering” problem is a new problem not covered by existing clustering methods. In this paper, we develop an approach for its solution based on the coupling of two nonnegative matrix factorizations. The method should be useful for integrative single-cell genomics analysis tasks such as the joint analysis of single-cell RNA-sequencing and single-cell ATAC-sequencing data.
   authors: Zhana Duren, Xi Chen, Mahdi Zamanighomi, Wanwen Zeng, Ansuman T. Satpathy, Howard Y. Chang, Yong Wang, Wing Hung Wong
   link:
     url: https://www.pnas.org/content/115/30/7723.short
