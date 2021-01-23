@@ -110,7 +110,7 @@
   news2:
 
 - title: "Modeling gene regulation from paired expression and chromatin accessibility data"
-  image: PECA_overview.PNG
+  image: PECA_overview.png
   description: The PECA is a computational mechanistic model for gene regulatory network from paired gene expression and chroamtin accessibility data. Chromatin plays a critical role in the regulation of gene expression. Interactions among chromatin regulators, sequence-specific transcription factors, and cis-regulatory sequence elements are the main driving forces shaping context-specific chromatin structure and gene expression. The purpose of the present work is to show that, by modeling matched expression and accessibility data across diverse cellular contexts, it is possible to recover a significant portion of the information in the missing data on binding locations and chromatin states and to achieve accurate inference of gene regulatory relations.
   authors: Zhana Duren, Xi Chen, Rui Jiang, Yong Wang, Wing Hung Wong
   link:
