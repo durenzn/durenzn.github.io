@@ -1,3 +1,13 @@
+- title: "Modeling regulatory network topology improves genome-wide analyses of complex human traits"
+  image: RSS-Net.png
+  description: Here we develop a Bayesian framework that integrates GWAS summary statistics with regulatory networks to infer genetic enrichments and associations simultaneously. Our method improves upon existing approaches by explicitly modeling network topology to assess enrichments, and by automatically leveraging enrichments to identify associations. 
+  authors: Xiang Zhu, Zhana Duren, Wing Hung Wong
+  link: 
+    url: https://www.nature.com/articles/s41467-021-22588-0
+    display:   Nature communications 2021
+  highlight: 1
+  news2:
+  
 - title: "GuidingNet: revealing transcriptional cofactor and predicting binding for DNA methyltransferase by network regularization"
   image: 
   description: 
