@@ -1,3 +1,13 @@
+- title: "Sc-compReg enables the comparison of gene regulatory networks between conditions using single-cell data"
+  image: scCompReg_overview.png
+  description: We propose sc-compReg as a method for the comparative analysis of gene expression regulatory networks between two conditions using single cell gene expression (scRNA-seq) and single cell chromatin accessibility data (scATAC-seq). 
+  authors: Zhana Duren1, Sophia Lu, Joseph G. Arthur, Preyas Shah, Jingxue Xin,  Francesca Meschi, Miranda Lin Li, Corey M. Nemec, Yifeng Yin, and Wing Hung Wong
+  link: 
+    url: https://www.nature.com/articles/s41467-021-25089-2
+    display:   Nature communications 2021
+  highlight: 1
+  news2:
+  
 - title: "Modeling regulatory network topology improves genome-wide analyses of complex human traits"
   image: RSS-Net.PNG
   description: Here we develop a Bayesian framework that integrates GWAS summary statistics with regulatory networks to infer genetic enrichments and associations simultaneously. Our method improves upon existing approaches by explicitly modeling network topology to assess enrichments, and by automatically leveraging enrichments to identify associations. 
