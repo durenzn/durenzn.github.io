@@ -8,6 +8,16 @@
   highlight: 1
   news2:
   
+- title: "Dynamic chromatin regulatory landscape of human CAR T cell exhaustion"
+  image: 
+  description:  
+  authors: David G. Gennert, Rachel C. Lynn, Jeff M. Granja, Evan W. Weber, Maxwell R. Mumbach, Yang Zhao,  Zhana Duren, Elena Sotillo,  William J. Greenleaf,  Wing H. Wong, Ansuman T. Satpathy,  Crystal L. Mackall, and Howard Y. Chang
+  link: 
+    url: https://www.pnas.org/content/118/30/e2104758118
+    display:   PNAS 2021
+  highlight: 0
+  news2:
+  
 - title: "MIMIC: an optimization method to identify cell type-specific marker panel for cell sorting"
   image: 
   description: 
