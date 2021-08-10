@@ -27,6 +27,16 @@
     display:   Briefings in Bioinformatics 2021
   highlight: 0
   news2:
+ 
+- title: "hReg-CNCC reconstructs a regulatory network in human cranial neural crest cells and annotates variants in a developmental context"
+  image: 
+  description: 
+  authors: Zhanying Feng, Zhana Duren, Ziyi Xiong, Sijia Wang, Fan Liu, Wing Hung Wong, Yong Wang
+  link: 
+    url: https://www.nature.com/articles/s42003-021-01970-0
+    display:   Communications biology 2021
+  highlight: 0
+  news2:
   
 - title: "Modeling regulatory network topology improves genome-wide analyses of complex human traits"
   image: RSS-Net.PNG
