@@ -1,3 +1,13 @@
+- title: "Integration of single-cell multi-omics data by regression analysis on unpaired observations"
+  image: unPairReg.png
+  description: We propose a method named UnpairReg for the regression analysis on unpaired observations to integrate single-cell multi-omics data. On real and simulated data, UnpairReg provides an accurate estimation of cell gene expression where only chromatin accessibility data is available. The cis-regulatory network inferred from UnpairReg is highly consistent with eQTL mapping. UnpairReg improves cell type identification accuracy by joint analysis of single-cell gene expression and chromatin accessibility data. 
+  authors: Qiuyue Yuan and Zhana Duren
+  link: 
+    url: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02726-7
+    display:   Genome Biology 2022
+  highlight: 1
+  news2:
+  
 - title: "Regulatory analysis of single cell multiome gene expression and chromatin accessibility data with scREG"
   image: scREG.png
   description: We develop scREG, a dimension reduction methodology, based on the concept of cis-regulatory potential, for single cell multiome data. This concept is further used for the construction of subpopulation-specific cis-regulatory networks. The R package scREG provides comprehensive functions for single cell multiome data analysis. 
