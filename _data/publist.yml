@@ -11,7 +11,7 @@
 - title: "Regulatory analysis of single cell multiome gene expression and chromatin accessibility data with scREG"
   image: scREG.png
   description: We develop scREG, a dimension reduction methodology, based on the concept of cis-regulatory potential, for single cell multiome data. This concept is further used for the construction of subpopulation-specific cis-regulatory networks. The R package scREG provides comprehensive functions for single cell multiome data analysis. 
-  authors: <b> Zhana Duren, Fengge Chang, Fnu Naqing </b>, Jingxue Xin, Qiao Liu, and Wing Hung Wong
+  authors: <b> Zhana Duren </b>, <b> Fengge Chang </b>, <b> Fnu Naqing </b>, Jingxue Xin, Qiao Liu, and Wing Hung Wong
   link: 
     url: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02682-2
     display:   Genome Biology 2022
