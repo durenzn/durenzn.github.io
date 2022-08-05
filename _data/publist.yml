@@ -1,7 +1,7 @@
 - title: "Integration of single-cell multi-omics data by regression analysis on unpaired observations"
   image: unPairReg.png
   description: We propose a method named UnpairReg for the regression analysis on unpaired observations to integrate single-cell multi-omics data. On real and simulated data, UnpairReg provides an accurate estimation of cell gene expression where only chromatin accessibility data is available. The cis-regulatory network inferred from UnpairReg is highly consistent with eQTL mapping. UnpairReg improves cell type identification accuracy by joint analysis of single-cell gene expression and chromatin accessibility data. 
-  authors: Qiuyue Yuan and Zhana Duren
+  authors: <b>Qiuyue Yuan</b> and Zhana Duren
   link: 
     url: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02726-7
     display:   Genome Biology 2022
