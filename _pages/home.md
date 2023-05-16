@@ -45,6 +45,9 @@ We are a computational biology research group at the [Clemson University Center 
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/front.jpg" alt="Slide 7" />
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/groupPhoto2023.JPG" alt="Slide 8" />
+        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
