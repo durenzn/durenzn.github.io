@@ -24,4 +24,4 @@ We are interested in methodogy of integrative analysis of single cell genomics d
 We are also interested in annotating genetic variants by cellular context specific gene regulatory networks. We proposed a method to prioritize noncoding variants based on their impact on context specific chromatin accessibility (Li et al. 2020). We also developed a variant interpretation methodology and apply it to the high-altitude adaption problem. In high-altitude adaptation, we discovered an important cis-regulatory element for EPAS1, and three SNPs on this element would affect the TF binding affinity and decrease the accessibility of regulatory element and target gene expression to make people better adapt to the high-altitude low-oxygen environment (Xin et al. 2020). We developed a Bayesian framework that integrates GWAS summary statistics with regulatory networks to infer genetic enrichments and associations simultaneously (Zhu et al. 2020).
 
 # Research questions
-iframe width="480" height="360" src="https://www.youtube.com/watch?v=RT10AizQz4Y" frameborder="0"> </iframe>
+{% youtube RT10AizQz4Y %}
