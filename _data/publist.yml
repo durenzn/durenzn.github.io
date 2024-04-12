@@ -1,3 +1,43 @@
+- title: "Inferring gene regulatory networks from single-cell multiome data using atlas-scale external data"
+  image: Linger.png
+  description: we present LINGER (Lifelong neural network for gene regulation), a machine-learning method to infer GRNs from single-cell paired gene expression and chromatin accessibility data. LINGER incorporates atlas-scale external bulk data across diverse cellular contexts and prior knowledge of transcription factor motifs as a manifold regularization. 
+  authors: <b> Qiuyue Yuan </b> and <b> Zhana Duren </b>
+  link: 
+    url: https://doi.org/10.1038/s41587-024-02182-7
+    display:   Nature Biotechnology 2024
+  highlight: 1
+  news2:
+  
+- title: "Joint inference of clonal structure using single-cell genome and transcriptome sequencing data"
+  image: 
+  description:  
+  authors: Xiangqi Bai, <b>Zhana Duren</b>, Lin Wan, Li C Xia
+  link: 
+    url: https://academic.oup.com/nargab/article/6/1/lqae017/7606949
+    display:   NAR Genomics and Bioinformatics 2024
+  highlight: 0
+  news2:
+  
+- title: "Heritability enrichment in context-specific regulatory networks improves phenotype-relevant tissue identification"
+  image: 
+  description:  
+  authors: Zhanying Feng, <b>Zhana Duren</b>, Jingxue Xin, <b> Qiuyue Yuan </b>, Yaoxi He, Bing Su, Wing Hung Wong, and Yong Wang
+  link: 
+    url: https://elifesciences.org/articles/82535
+    display:   eLife 2022
+  highlight: 0
+  news2:
+
+- title: "Human genetic variants associated with COVID-19 severity are enriched in immune and epithelium regulatory networks"
+  image: 
+  description:  
+  authors: Zhanying Feng, Xianwen Ren,  <b>Zhana Duren</b>, and Yong Wang
+  link: 
+    url: https://link.springer.com/article/10.1007/s43657-022-00066-x
+    display:   Phenomics 2022
+  highlight: 0
+  news2:
+  
 - title: "Integration of single-cell multi-omics data by regression analysis on unpaired observations"
   image: unPairReg.png
   description: We propose a method named UnpairReg for the regression analysis on unpaired observations to integrate single-cell multi-omics data. On real and simulated data, UnpairReg provides an accurate estimation of cell gene expression where only chromatin accessibility data is available. The cis-regulatory network inferred from UnpairReg is highly consistent with eQTL mapping. UnpairReg improves cell type identification accuracy by joint analysis of single-cell gene expression and chromatin accessibility data. 
