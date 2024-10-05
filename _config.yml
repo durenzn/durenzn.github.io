@@ -15,7 +15,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: ""
 #url: "https://durenzn.github.io/DurenLab"
 #TransferedAbsoluteUrl: "https://durenlab.com/"
-TransferedAbsoluteUrl: "https://durenzn.github.io/mnblog"
+#TransferedAbsoluteUrl: "https://durenzn.github.io/mnblog"
+#url: "https://durenzn.github.io/mnblog"
 
 include:
   - .htaccess
