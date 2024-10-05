@@ -49,6 +49,10 @@ firstp {
   max-width: 1600px; /* or 950px */
 }
 
+.container{
+  writing-mode:	vertical-lr;
+}
+
 /* Home, News */
 #newsid p {
 	text-align: left;
